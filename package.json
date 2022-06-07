@@ -1,6 +1,6 @@
 {
   "name": "neo-react-ssg",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "react ssg freamework with vite",
   "main": "index.js",
   "author": "mochi-sann",
@@ -17,5 +17,8 @@
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
+  },
+  "dependencies": {
+    "cac": "^6.7.12"
   }
 }
