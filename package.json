@@ -1,0 +1,9 @@
+{
+  "name": "neo-react-ssg",
+  "version": "1.0.0",
+  "description": "react ssg freamework with vite",
+  "main": "index.js",
+  "author": "mochi-sann",
+  "license": "MIT",
+  "private": true
+}
