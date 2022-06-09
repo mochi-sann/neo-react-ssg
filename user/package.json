@@ -2,7 +2,6 @@
   "name": "dev-app",
   "version": "1.0.0",
   "description": "devlopement app",
-  "main": "index.js",
   "license": "MIT",
   "devDependencies": {
     "minista": "file:..",

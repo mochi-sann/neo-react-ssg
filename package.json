@@ -18,7 +18,7 @@
   "scripts": {
     "prepare": "husky install",
     "format": "prettier --write .",
-    "build": "tsup"
+    "build": "tsc && tsup"
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
