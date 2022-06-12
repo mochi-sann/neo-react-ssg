@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "devlopement app",
   "license": "MIT",
+  "private": true,
   "devDependencies": {
-    "minista": "file:..",
-    "preact": "^10.7.3",
+    "neo-ssg": "./..",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }

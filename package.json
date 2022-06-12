@@ -5,8 +5,14 @@
   "author": "mochi-sann",
   "license": "MIT",
   "private": true,
-  "main": "dist/index.js",
+  "main": "dist/index.mjs",
   "types": "dist/index.d.ts",
+  "workspaces": [
+    "user"
+  ],
+  "bin": {
+    "neo-ssg": "./bin/index.js"
+  },
   "devDependencies": {
     "@types/node": "16",
     "husky": "^8.0.1",
